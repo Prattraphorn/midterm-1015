@@ -1,0 +1,15 @@
+C:\Users\PC 217\Desktop\midterm\bin\Debug\net6.0\midterm.exe
+C:\Users\PC 217\Desktop\midterm\bin\Debug\net6.0\midterm.deps.json
+C:\Users\PC 217\Desktop\midterm\bin\Debug\net6.0\midterm.runtimeconfig.json
+C:\Users\PC 217\Desktop\midterm\bin\Debug\net6.0\midterm.dll
+C:\Users\PC 217\Desktop\midterm\bin\Debug\net6.0\midterm.pdb
+C:\Users\PC 217\Desktop\midterm\obj\Debug\net6.0\midterm.csproj.AssemblyReference.cache
+C:\Users\PC 217\Desktop\midterm\obj\Debug\net6.0\midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 217\Desktop\midterm\obj\Debug\net6.0\midterm.AssemblyInfoInputs.cache
+C:\Users\PC 217\Desktop\midterm\obj\Debug\net6.0\midterm.AssemblyInfo.cs
+C:\Users\PC 217\Desktop\midterm\obj\Debug\net6.0\midterm.csproj.CoreCompileInputs.cache
+C:\Users\PC 217\Desktop\midterm\obj\Debug\net6.0\midterm.dll
+C:\Users\PC 217\Desktop\midterm\obj\Debug\net6.0\refint\midterm.dll
+C:\Users\PC 217\Desktop\midterm\obj\Debug\net6.0\midterm.pdb
+C:\Users\PC 217\Desktop\midterm\obj\Debug\net6.0\midterm.genruntimeconfig.cache
+C:\Users\PC 217\Desktop\midterm\obj\Debug\net6.0\ref\midterm.dll
